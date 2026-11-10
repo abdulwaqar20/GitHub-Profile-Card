@@ -16,6 +16,14 @@ def analyze_languages(repositories):
 
     return languages
 
+def calculate_repository_stats(repositories):
+    """Calculate basic repository statistics."""
+
+    total_stars = sum(repo["stargazers_count"] for repo in repositories)
+    total_forks = sum(repo["forks_count"] for repo in repositories)
+
+    return total_stars, total_forks
+
 def get_recent_repositories(repositories, limit=5):
     """Return the most recently updated repositories."""
 
@@ -69,6 +77,14 @@ def main():
         print(f"- {repo['name']}")
 
     print("\nTotal repositories fetched:", len(repositories))
+
+    total_stars, total_forks = calculate_repository_stats(repositories)
+
+    print("\n" + "=" * 40)
+    print("       REPOSITORY STATISTICS")
+    print("=" * 40)
+    print(f"Total Stars: {total_stars}")
+    print(f"Total Forks: {total_forks}")
 
     languages = analyze_languages(repositories)
 
