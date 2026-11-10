@@ -1,0 +1,80 @@
+========================================
+       GITHUB PROFILE CARD
+========================================
+Enter GitHub username: abdulwaqar20 
+
+========================================
+          PROFILE DETAILS
+========================================
+Username: abdulwaqar20
+Name: Abdul Waqar
+Bio: AI/ML & GenAI Engineer | Python, RAG, LangGraph, FastAPI | Building safe, source-grounded AI agents | NED CS (AI) '26
+Public Repositories: 27
+Followers: 0
+Following: 0
+Profile URL: https://github.com/abdulwaqar20
+
+========================================
+       PUBLIC REPOSITORIES
+========================================
+- GitHub-Profile-Card
+- abdul-waqar-portfolio
+- KisaanAI
+- Blog-Agents
+- abdulwaqar20
+- GPT2-From-Scratch
+- General-Health-Query-Chatbot
+- Research-Agent
+- ai-traineeship
+- Synthetic-Data-Generation-for-Classification
+- Library-Recommendation-System
+- Hate-Speech-And-Cyber-Bullying-Detection
+- Smart-Park
+- Policy-Pilot
+- Smart-Patient-Care
+- Interview_Prep
+- company-kb-ai
+- CONVERSATIONAL-SHOPPING-ASSISTANT-CHATBOT
+- MA-RLHF-Implementation
+- AI_ML-Engineering-Developershub-Internship
+- Heart-Disease-Prediction
+- Predict-Future-Stock-Prices
+- Exploring-and-Visualizing-Dataset
+- Machine-_Learning-Labs
+- smart_traffic_system
+- smart-traffic-prediction
+- movie-system
+
+Total repositories fetched: 27
+
+========================================
+       REPOSITORY STATISTICS
+========================================
+Total Stars: 0
+Total Forks: 1
+
+========================================
+     PROGRAMMING LANGUAGE ANALYSIS
+========================================
+Python: 15 repositories
+Jupyter Notebook: 9 repositories
+HTML: 1 repositories
+
+========================================
+   RECENTLY UPDATED REPOSITORIES
+========================================
+- GitHub-Profile-Card
+  Last updated: 10 Nov 2026
+  URL: https://github.com/abdulwaqar20/GitHub-Profile-Card
+- abdul-waqar-portfolio
+  Last updated: 05 Nov 2026
+  URL: https://github.com/abdulwaqar20/abdul-waqar-portfolio
+- KisaanAI
+  Last updated: 27 Oct 2026
+  URL: https://github.com/abdulwaqar20/KisaanAI
+- Blog-Agents
+  Last updated: 27 Oct 2026
+  URL: https://github.com/abdulwaqar20/Blog-Agents
+- abdulwaqar20
+  Last updated: 27 Oct 2026
+  URL: https://github.com/abdulwaqar20/abdulwaqar20
